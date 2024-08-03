@@ -1,0 +1,928 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Uni/5th/DLD-LAB/Ex2/Boomi Sazi
+vadder
+Z0 !s110 1700150425
+!i10b 1
+!s100 TA;nha>:7QmgQ7<0a26=;0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I82TDck3m8Ej4N@5^Vh6<40
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/Uni/5th/CAD/CA/Phase2 CA1
+Z4 w1598543415
+Z5 8D:/Uni/5th/CAD/CA/Adder/Floating-Point-Adder-master/adder_pipeline.v
+Z6 FD:/Uni/5th/CAD/CA/Adder/Floating-Point-Adder-master/adder_pipeline.v
+!i122 161
+L0 1 67
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1700150425.000000
+Z9 !s107 D:/Uni/5th/CAD/CA/Adder/Floating-Point-Adder-master/adder_pipeline.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/5th/CAD/CA/Adder/Floating-Point-Adder-master/adder_pipeline.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vadder_tb
+R0
+!i10b 1
+!s100 ]7?O;WmnGL72cF0]<8E<@2
+R1
+Im9oK@8HCLlREHj0IJ2:8M3
+R2
+R3
+R4
+8D:/Uni/5th/CAD/CA/Adder/Floating-Point-Adder-master/adder_tb.v
+FD:/Uni/5th/CAD/CA/Adder/Floating-Point-Adder-master/adder_tb.v
+!i122 162
+Z13 L0 1 34
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Uni/5th/CAD/CA/Adder/Floating-Point-Adder-master/adder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/5th/CAD/CA/Adder/Floating-Point-Adder-master/adder_tb.v|
+!i113 1
+R11
+R12
+vaddition
+R0
+!i10b 1
+!s100 CJI;mcULK^Nz;<HXiOXf41
+R1
+IRN0FMff_^;edmK6:N9[Qd3
+R2
+R3
+R4
+R5
+R6
+!i122 161
+L0 110 18
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vcheck_floats
+!s110 1700223494
+!i10b 1
+!s100 R8P1ABzfIoCHn0Vl`aneP1
+R1
+Ij<_R4YgU>5h>5M5P[_mJC3
+R2
+R3
+w1700219439
+8D:\Uni\5th\CAD\CA\Phase2 CA1\DoneCheck.v
+FD:\Uni\5th\CAD\CA\Phase2 CA1\DoneCheck.v
+!i122 843
+L0 1 23
+R7
+r1
+!s85 0
+31
+!s108 1700223494.000000
+!s107 D:\Uni\5th\CAD\CA\Phase2 CA1\DoneCheck.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Uni\5th\CAD\CA\Phase2 CA1\DoneCheck.v|
+!i113 1
+R11
+R12
+vCheckAllZeros
+!s110 1700153657
+!i10b 1
+!s100 <Dncg@fZB[XK`Clo]PNRY1
+R1
+I3ZZPeKI5Z2[Njz8GLkHcE1
+R2
+R3
+w1700153654
+Z14 8D:/Uni/5th/CAD/CA/Phase2 CA1/RELU.v
+Z15 FD:/Uni/5th/CAD/CA/Phase2 CA1/RELU.v
+!i122 279
+Z16 L0 1 9
+R7
+r1
+!s85 0
+31
+!s108 1700153657.000000
+Z17 !s107 D:/Uni/5th/CAD/CA/Phase2 CA1/RELU.v|
+Z18 !s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/5th/CAD/CA/Phase2 CA1/RELU.v|
+!i113 1
+R11
+R12
+n@check@all@zeros
+vcompandshift
+R0
+!i10b 1
+!s100 ^lF]lf]o74PH5A6odzU4B1
+R1
+I1=I:RK2;A?Kk:]JoONa063
+R2
+R3
+R4
+R5
+R6
+!i122 161
+L0 71 37
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vController
+!s110 1700412607
+!i10b 1
+!s100 @:cHBd_TC4lf?IPe7JTj?2
+R1
+IT?:f^11i1;ZjOBeFmb3`Q1
+R2
+Z19 dD:/UT/term 5/CAD/CAD-CA1-Phase2-KouroshSajjadi-HesamRamezanian/trunk/sim
+w1700411895
+8../src/hdl/Controller.v
+F../src/hdl/Controller.v
+!i122 1608
+L0 7 29
+R7
+r1
+!s85 0
+31
+!s108 1700412607.000000
+!s107 ../src/hdl/Controller.v|
+!s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/Controller.v|
+!i113 1
+Z20 o+acc -source
+Z21 !s92 +acc -source +define+SIM
+R12
+n@controller
+vdataPath
+!s10a 1700229048
+Z22 !s110 1700239657
+!i10b 1
+!s100 OhHH4]Gfn@M8f<SUQ8Ki02
+R1
+I2Y_k@IN;R=d=c6C_f3ea22
+R2
+Z23 dD:/Uni/5th/CAD/CA/Phase1 CA1/trunk/trunk/sim
+w1700229048
+8../src/hdl/DataPath.v
+F../src/hdl/DataPath.v
+!i122 1597
+L0 1 33
+R7
+r1
+!s85 0
+31
+Z24 !s108 1700239657.000000
+!s107 ../src/hdl/DataPath.v|
+!s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/DataPath.v|
+!i113 1
+R20
+R21
+R12
+ndata@path
+vdoneCheck
+Z25 !s10a 1700234979
+R22
+!i10b 1
+!s100 4OYkh[A2WkDVTC>LUjg1O0
+R1
+IO]VhdnBmcll8Y_ca8o=Hn0
+R2
+R23
+Z26 w1700234979
+Z27 8../src/hdl/DoneCheck.v
+Z28 F../src/hdl/DoneCheck.v
+!i122 1598
+L0 21 30
+R7
+r1
+!s85 0
+31
+R24
+Z29 !s107 ../src/hdl/DoneCheck.v|
+Z30 !s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/DoneCheck.v|
+!i113 1
+R20
+R21
+R12
+ndone@check
+vfloat_add
+!s10a 1700224021
+R22
+!i10b 1
+!s100 d7HAo61?1^@RzUa]lSlVj2
+R1
+Ih8IHoZSHHJR?R0JJS2M8<1
+R2
+R23
+w1700224021
+8../src/hdl/Adder.v
+F../src/hdl/Adder.v
+!i122 1595
+L0 1 57
+R7
+r1
+!s85 0
+31
+!s108 1700239656.000000
+!s107 ../src/hdl/Adder.v|
+!s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/Adder.v|
+!i113 1
+R20
+R21
+R12
+vfloat_add_tb
+Z31 !s110 1700238396
+!i10b 1
+!s100 =Yf;XETTlSnR5O><YbQ8n3
+R1
+Ib5an]FfY487<QD>k]PVQh2
+R2
+R3
+w1700213219
+8D:\Uni\5th\CAD\CA\Phase2 CA1\AdderTB.v
+FD:\Uni\5th\CAD\CA\Phase2 CA1\AdderTB.v
+!i122 1583
+L0 2 47
+R7
+r1
+!s85 0
+31
+Z32 !s108 1700238395.000000
+!s107 D:\Uni\5th\CAD\CA\Phase2 CA1\AdderTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Uni\5th\CAD\CA\Phase2 CA1\AdderTB.v|
+!i113 1
+R11
+R12
+vfloat_adder
+!s110 1700149514
+!i10b 1
+!s100 lf_QXLLOG`hmM1Ln_49fg3
+R1
+IiU3o5E;[FXfQJDi<:ZQB53
+R2
+R3
+w1700149508
+8D:/Uni/5th/CAD/CA/Phase2 CA1/Adder.v
+FD:/Uni/5th/CAD/CA/Phase2 CA1/Adder.v
+!i122 133
+L0 1 71
+R7
+r1
+!s85 0
+31
+!s108 1700149514.000000
+!s107 D:/Uni/5th/CAD/CA/Phase2 CA1/Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/5th/CAD/CA/Phase2 CA1/Adder.v|
+!i113 1
+R11
+R12
+vfloat_mem
+!s10a 1700231737
+R22
+!i10b 1
+!s100 ]^La<6A3HENW;CBVa4DGd0
+R1
+IQdoS]bY[zi`S]U=M0_2YL3
+R2
+R23
+w1700231737
+8../src/hdl/Memory.v
+F../src/hdl/Memory.v
+!i122 1599
+L0 1 30
+R7
+r1
+!s85 0
+31
+R24
+!s107 ../src/hdl/Memory.v|
+!s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/Memory.v|
+!i113 1
+R20
+R21
+R12
+vfloat_mult
+!s110 1700214651
+!i10b 1
+!s100 YMELcX75>^RJl8aTghJZZ3
+R1
+Ii_H]I7zTP:5G?7:Ng?a;f1
+R2
+R3
+w1700214298
+Z33 8D:\Uni\5th\CAD\CA\Phase2 CA1\Multiplier.v
+Z34 FD:\Uni\5th\CAD\CA\Phase2 CA1\Multiplier.v
+!i122 469
+R13
+R7
+r1
+!s85 0
+31
+!s108 1700214651.000000
+Z35 !s107 D:\Uni\5th\CAD\CA\Phase2 CA1\Multiplier.v|
+Z36 !s90 -reportprogress|300|-work|work|-stats=none|D:\Uni\5th\CAD\CA\Phase2 CA1\Multiplier.v|
+!i113 1
+R11
+R12
+vfloat_multiplier
+!s110 1700213809
+!i10b 1
+!s100 4>[NBd=?KkASe6DTZQ[8k1
+R1
+IdP3K@NI<VkEKE0m[QFPOz1
+R2
+R3
+w1700213303
+R33
+R34
+!i122 375
+L0 1 53
+R7
+r1
+!s85 0
+31
+!s108 1700213809.000000
+R35
+R36
+!i113 1
+R11
+R12
+vfloat_pos_zero
+!s110 1700217430
+!i10b 1
+!s100 mXc]bHmj=ga4B=lH?e>T]1
+R1
+I0mJPFOGg@kibdSB`[@aZe0
+R2
+R3
+w1700154959
+R14
+R15
+!i122 634
+Z37 L0 1 16
+R7
+r1
+!s85 0
+31
+!s108 1700217430.000000
+R17
+R18
+!i113 1
+R11
+R12
+vfloat_reg
+!s10a 1700223989
+R22
+!i10b 1
+!s100 [=dK4Vh4T;3_jEfn=8FJa0
+R1
+IXnEFjR<QLU]@TXYiEb7W01
+R2
+R23
+w1700223989
+8../src/hdl/Reg.v
+F../src/hdl/Reg.v
+!i122 1604
+R37
+R7
+r1
+!s85 0
+31
+R24
+!s107 ../src/hdl/Reg.v|
+!s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/Reg.v|
+!i113 1
+R20
+R21
+R12
+vfloat_reg_tb
+!s110 1700238395
+!i10b 1
+!s100 ^O45hD9J3UUOE6H5HiA8;2
+R1
+IfBS<@02_LWde<jL5<fEoI3
+R2
+R3
+w1700146840
+8D:\Uni\5th\CAD\CA\Phase2 CA1\RegTB.v
+FD:\Uni\5th\CAD\CA\Phase2 CA1\RegTB.v
+!i122 1582
+L0 3 56
+R7
+r1
+!s85 0
+31
+R32
+!s107 D:\Uni\5th\CAD\CA\Phase2 CA1\RegTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Uni\5th\CAD\CA\Phase2 CA1\RegTB.v|
+!i113 1
+R11
+R12
+vFull_Adder
+R0
+!i10b 1
+!s100 T5Y9HVL5QdD_0I8oQdAF62
+R1
+IPlCMLhEMzHUV<kDj4cM3?1
+R2
+R3
+R4
+8D:/Uni/5th/CAD/CA/Adder/Floating-Point-Adder-master/fa.v
+FD:/Uni/5th/CAD/CA/Adder/Floating-Point-Adder-master/fa.v
+!i122 163
+R16
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Uni/5th/CAD/CA/Adder/Floating-Point-Adder-master/fa.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/5th/CAD/CA/Adder/Floating-Point-Adder-master/fa.v|
+!i113 1
+R11
+R12
+n@full_@adder
+vHalf_Adder
+R0
+!i10b 1
+!s100 jzLUO?i:kgzVmS3T3zV992
+R1
+I_Bfgg5[=zg_JWHTAmYW]92
+R2
+R3
+R4
+8D:/Uni/5th/CAD/CA/Adder/Floating-Point-Adder-master/ha.v
+FD:/Uni/5th/CAD/CA/Adder/Floating-Point-Adder-master/ha.v
+!i122 164
+L0 1 8
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Uni/5th/CAD/CA/Adder/Floating-Point-Adder-master/ha.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/5th/CAD/CA/Adder/Floating-Point-Adder-master/ha.v|
+!i113 1
+R11
+R12
+n@half_@adder
+vMaxnet
+!s110 1700412611
+!i10b 1
+!s100 Md5[B=Z_RF3]G]VZmab8?0
+R1
+ILQ_S@K]zHWcAonJ9gKag]0
+R2
+R19
+w1700411995
+8../src/hdl/TopLevel.v
+F../src/hdl/TopLevel.v
+!i122 1609
+L0 1 20
+R7
+r1
+!s85 0
+31
+!s108 1700412611.000000
+!s107 ../src/hdl/TopLevel.v|
+!s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/TopLevel.v|
+!i113 1
+R20
+R21
+R12
+n@maxnet
+vMaxnetTB
+!s10a 1700238388
+!s110 1700239713
+!i10b 1
+!s100 DJdL<KRh>FK73;Cd]T^fh2
+R1
+IS`Xm^SSkghh0CO<]AUCzo3
+R2
+R23
+w1700238388
+8./tb/TB.v
+F./tb/TB.v
+!i122 1607
+L0 2 27
+R7
+r1
+!s85 0
+31
+!s108 1700239713.000000
+!s107 ./tb/TB.v|
+!s90 -reportprogress|300|+acc|-incr|-source|+incdir+../src/inc|+define+SIM|./tb/TB.v|
+!i113 1
+R20
+!s92 +acc -source +incdir+../src/inc +define+SIM
+R12
+n@maxnet@t@b
+vmulti24_24
+Z38 !s10a 1700237412
+R22
+!i10b 1
+!s100 M@eP9E3c`^T2S9C2QSZHI1
+R1
+I@1WUjibGPhd@55LABVk@_1
+R2
+R23
+Z39 w1700237412
+Z40 8../src/hdl/Multiplier.v
+Z41 F../src/hdl/Multiplier.v
+!i122 1600
+L0 1 11
+R7
+r1
+!s85 0
+31
+R24
+Z42 !s107 ../src/hdl/Multiplier.v|
+Z43 !s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/Multiplier.v|
+!i113 1
+R20
+R21
+R12
+vMultiplier
+R38
+R22
+!i10b 1
+!s100 o7mL_;Lk^3h3W2O@2Ik<63
+R1
+IzYZOdX1^FKQm_]J7BO:>K2
+R2
+R23
+R39
+R40
+R41
+!i122 1600
+L0 13 37
+R7
+r1
+!s85 0
+31
+R24
+R42
+R43
+!i113 1
+R20
+R21
+R12
+n@multiplier
+vmux2to1
+!s10a 1700233610
+R22
+!i10b 1
+!s100 S5WDFdh2m@dMed=YQ2OkR1
+R1
+IY4Pe7Jd``Sa;em:W_h6M20
+R2
+R23
+w1700233610
+8../src/hdl/Mux2to1.v
+F../src/hdl/Mux2to1.v
+!i122 1601
+R16
+R7
+r1
+!s85 0
+31
+R24
+!s107 ../src/hdl/Mux2to1.v|
+!s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/Mux2to1.v|
+!i113 1
+R20
+R21
+R12
+vmux_2to1
+!s110 1700217983
+!i10b 1
+!s100 gJg_S_6KPIBEBk[gleg502
+R1
+I<QYGL0RMLmUDVVQW`XcNe3
+R2
+R3
+w1700217979
+8D:\Uni\5th\CAD\CA\Phase2 CA1\Mux2to1.v
+FD:\Uni\5th\CAD\CA\Phase2 CA1\Mux2to1.v
+!i122 692
+L0 1 10
+R7
+r1
+!s85 0
+31
+!s108 1700217983.000000
+!s107 D:\Uni\5th\CAD\CA\Phase2 CA1\Mux2to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Uni\5th\CAD\CA\Phase2 CA1\Mux2to1.v|
+!i113 1
+R11
+R12
+vmux_4to1
+!s10a 1700223933
+R22
+!i10b 1
+!s100 ;i_neajlJgCS:N?N>l?3d3
+R1
+IK5GhhHZalT[GC4]]GP7FV3
+R2
+R23
+w1700223933
+8../src/hdl/Mux4to1.v
+F../src/hdl/Mux4to1.v
+!i122 1602
+Z44 L0 1 18
+R7
+r1
+!s85 0
+31
+R24
+!s107 ../src/hdl/Mux4to1.v|
+!s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/Mux4to1.v|
+!i113 1
+R20
+R21
+R12
+vnormalisation
+R0
+!i10b 1
+!s100 G36SUZ61D40eZAFiAgGna1
+R1
+I?Mj[6oKmC8I:1J;Nc8kMb1
+R2
+R3
+R4
+R5
+R6
+!i122 161
+L0 131 35
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vnormalize
+Z45 !s110 1700217623
+!i10b 1
+!s100 eK11=C_jP[lhfBVFnXnTD2
+R1
+I9^eF<T<EzW3KUE[fh]lg43
+R2
+R3
+w1700213377
+8D:\Uni\5th\CAD\CA\Phase2 CA1\Normalize.v
+FD:\Uni\5th\CAD\CA\Phase2 CA1\Normalize.v
+!i122 648
+L0 1 24
+R7
+r1
+!s85 0
+31
+Z46 !s108 1700217623.000000
+!s107 D:\Uni\5th\CAD\CA\Phase2 CA1\Normalize.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Uni\5th\CAD\CA\Phase2 CA1\Normalize.v|
+!i113 1
+R11
+R12
+vPU
+!s10a 1700229105
+R22
+!i10b 1
+!s100 3K>3mb;MSUX]KlU7=f:aT3
+R1
+IaeZZ3^c8^MjgF>GoG]LUo0
+R2
+R23
+w1700229105
+8../src/hdl/ProcessUnit.v
+F../src/hdl/ProcessUnit.v
+!i122 1603
+L0 1 41
+R7
+r1
+!s85 0
+31
+R24
+!s107 ../src/hdl/ProcessUnit.v|
+!s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/ProcessUnit.v|
+!i113 1
+R20
+R21
+R12
+n@p@u
+vRELU
+!s10a 1700223488
+!s110 1700239658
+!i10b 1
+!s100 ]aPnn`nZ[2dHV_nLF?[RY3
+R1
+IXABReBgka6c5oG9dK:T[]3
+R2
+R23
+w1700223488
+8../src/hdl/RELU.v
+F../src/hdl/RELU.v
+!i122 1605
+L0 1 14
+R7
+r1
+!s85 0
+31
+!s108 1700239658.000000
+!s107 ../src/hdl/RELU.v|
+!s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/RELU.v|
+!i113 1
+R20
+R21
+R12
+n@r@e@l@u
+vround
+R45
+!i10b 1
+!s100 6Yk_zfjFOz6m]M]fWA4jJ1
+R1
+Ieh7W]EW;klYAVd8D^X4QW2
+R2
+R3
+w1700213350
+8D:\Uni\5th\CAD\CA\Phase2 CA1\Round.v
+FD:\Uni\5th\CAD\CA\Phase2 CA1\Round.v
+!i122 649
+R37
+R7
+r1
+!s85 0
+31
+R46
+!s107 D:\Uni\5th\CAD\CA\Phase2 CA1\Round.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Uni\5th\CAD\CA\Phase2 CA1\Round.v|
+!i113 1
+R11
+R12
+vselectMap
+R25
+R22
+!i10b 1
+!s100 Y4BM1QZR[1<j<A]n_C62O0
+R1
+I:zkcY7[?Zb:MbUPU<0K<H0
+R2
+R23
+R26
+R27
+R28
+!i122 1598
+R44
+R7
+r1
+!s85 0
+31
+R24
+R29
+R30
+!i113 1
+R20
+R21
+R12
+nselect@map
+vtb_float_mult
+!s110 1700215104
+!i10b 1
+!s100 HL]42;KnBAf0zFDOS=RE_0
+R1
+IFV3h3^[Qc6BRVCKUf[mVN3
+R2
+R3
+w1700214645
+Z47 8D:\Uni\5th\CAD\CA\Phase2 CA1\MultiplierTB.v
+Z48 FD:\Uni\5th\CAD\CA\Phase2 CA1\MultiplierTB.v
+!i122 489
+L0 1 29
+R7
+r1
+!s85 0
+31
+!s108 1700215104.000000
+Z49 !s107 D:\Uni\5th\CAD\CA\Phase2 CA1\MultiplierTB.v|
+Z50 !s90 -reportprogress|300|-work|work|-stats=none|D:\Uni\5th\CAD\CA\Phase2 CA1\MultiplierTB.v|
+!i113 1
+R11
+R12
+vTBTB
+Z51 !s110 1700151820
+!i10b 1
+!s100 O]aKL5<IS<Dm2k:cz>13?0
+R1
+I>66DVmV?=OXjTBn;^j80l1
+R2
+R3
+w1700151816
+8D:/Uni/5th/CAD/CA/Phase2 CA1/TestTestBench.v
+FD:/Uni/5th/CAD/CA/Phase2 CA1/TestTestBench.v
+!i122 234
+L0 2 15
+R7
+r1
+!s85 0
+31
+Z52 !s108 1700151820.000000
+!s107 D:/Uni/5th/CAD/CA/Phase2 CA1/TestTestBench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/5th/CAD/CA/Phase2 CA1/TestTestBench.v|
+!i113 1
+R11
+R12
+n@t@b@t@b
+vTest
+R51
+!i10b 1
+!s100 HIRmj9czPcMWY[cMU22Yg2
+R1
+If;X7_NXKQG7iCZ=lXeRLN2
+R2
+R3
+w1700151793
+8D:/Uni/5th/CAD/CA/Phase2 CA1/Test.v
+FD:/Uni/5th/CAD/CA/Phase2 CA1/Test.v
+!i122 233
+L0 2 8
+R7
+r1
+!s85 0
+31
+R52
+!s107 D:/Uni/5th/CAD/CA/Phase2 CA1/Test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/5th/CAD/CA/Phase2 CA1/Test.v|
+!i113 1
+R11
+R12
+n@test
+vtestbench
+R31
+!i10b 1
+!s100 Z<5`Q=gkCfOY>_oI8@IWd1
+R1
+I510ngh?<N8VHjiD27oc?=2
+R2
+R3
+w1700215473
+R47
+R48
+!i122 1587
+L0 3 26
+R7
+r1
+!s85 0
+31
+!s108 1700238396.000000
+R49
+R50
+!i113 1
+R11
+R12
+vTopLevel
+!s110 1700224460
+!i10b 1
+!s100 QlQ^_<zkP7M=3JAZNo[Sd1
+R1
+I@nC<X7R^j:1l8Zbekm9Un2
+R2
+R3
+w1700222445
+8D:\Uni\5th\CAD\CA\Phase2 CA1\TopLevel.v
+FD:\Uni\5th\CAD\CA\Phase2 CA1\TopLevel.v
+!i122 907
+L0 1 17
+R7
+r1
+!s85 0
+31
+!s108 1700224460.000000
+!s107 D:\Uni\5th\CAD\CA\Phase2 CA1\TopLevel.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Uni\5th\CAD\CA\Phase2 CA1\TopLevel.v|
+!i113 1
+R11
+R12
+n@top@level
